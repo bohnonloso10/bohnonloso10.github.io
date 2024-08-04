@@ -13,7 +13,7 @@ Looking ahed, I don't have any particular goal yet: right now what I want to ach
 Aside from my academic hopes and wishes, I have other interests, like listening to music of any kind (with preferences towards rock and metal, but I enjoy anything, really), studying and admiring art (I draw sometimes too, but I'm in no way talented, it's just a silly hobby of mine), consuming any type of media that can give me more knowledge about any kind of topic... and some other stuff. 
 
 I don't have any project in store yet, neither I have anything university-study related to put here, that's why, for now, i will just use this github page as a diary of my travel in Japan, hoping to give advices or good recommendations to other people who are coming here/would like to come here, either as students, workders, or tourists. 
-So pleas, bear with me for the time being.
+So please, bear with me for the time being.
 Thank you. 
 
 
