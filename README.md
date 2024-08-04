@@ -1,51 +1,32 @@
-# Academic Pages
+# about me #
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+Hi, to you who's reading this.
 
-Academic Pages is a Github Pages template for academic websites.
+My name is Francesca and I'm currently a student majoring in Language, Cultures, and Societies of Asia and Mediterranean Africa at Ca' Foscari University in Venice (despite many stereotypes, I don't go to class by boat, neither I have a boat), with my main focus being the Japanese language. 
+As of now, I'm also an exchange student at Hokkaido University. 
 
-# Getting Started
+Having watched a lot of animes and animated movies in general since a really young age, I've always been curious about Japan and its culture, and that was an interest that would exponencially grow with the passing of the years and my discovery of the interet world. 
+Because of this, I decided that I wanted to learn the Japanese language at all costs, as well as getting more familiar with the Japanese culture and history (from arts to actual history and much more), something that I've been able to do throughout my time at Ca' Foscari: my university offers a ridiculously large amount of courses about any kind of field related to Japan, and I believe the Japanese courses in there are the best overall in all of Italy. 
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Looking ahed, I don't have any particular goal yet: right now what I want to achieve the most would be graduating and maybe getting an N2 certification (I'm currently at level N3), but that could change in the future. Overall, I think I would like to put what I studied throughout my university career at use, but I still haven't figured out how. 
 
-See more info at https://academicpages.github.io/
+Aside from my academic hopes and wishes, I have other interests, like listening to music of any kind (with preferences towards rock and metal, but I enjoy anything, really), studying and admiring art (I draw sometimes too, but I'm in no way talented, it's just a silly hobby of mine), consuming any type of media that can give me more knowledge about any kind of topic... and some other stuff. 
 
-## Running Locally
+I don't have any project in store yet, neither I have anything university-study related to put here, that's why, for now, i will just use this github page as a diary of my travel in Japan, hoping to give advices or good recommendations to other people who are coming here/would like to come here, either as students, workders, or tourists. 
+So pleas, bear with me for the time being.
+Thank you. 
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-# Maintenance
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-## Bugfixes and enhancements
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+
+
+
+
+
+
