@@ -18,7 +18,7 @@ markdown: kramdown
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Francesca's page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
